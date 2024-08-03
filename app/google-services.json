@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386983601711",
+    "project_id": "quote-of-the-day-33757",
+    "storage_bucket": "quote-of-the-day-33757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386983601711:android:7710d5cf556f2b17fb08da",
+        "android_client_info": {
+          "package_name": "com.hyper.homemess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIdEzrhtt1prM__WfryLBApISop_Igb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386983601711:android:5e374f867d301b8ffb08da",
+        "android_client_info": {
+          "package_name": "com.hyper.quoteoftheday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIdEzrhtt1prM__WfryLBApISop_Igb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
