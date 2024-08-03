@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgColor">#141333</color>
+    <color name="overlayBg">#03031f</color>
+    <color name="headingTxt">#ae71f0</color>
+    <color name="card_layout">#C189FD</color>
+    <color name="TxtColor2">#00B8D4</color>
+</resources>
